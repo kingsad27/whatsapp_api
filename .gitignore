@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+.env
+npm-debug.log*
+
+# Sessions et cache WhatsApp
+session/
+.wwebjs_cache/
+
+# QR code temporaire
+.qrcode.png
+
+# Fichiers de sauvegarde (si tu utilises un backup d’état)
+conversation_backup.json
+
+# Logs/app temp
+*.log
+
+# Dossiers du système
+.DS_Store
+Thumbs.db
+
+# Autres (optionnel, selon ton arbo)
+*.bak
